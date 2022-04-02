@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc395a5e6EDB602C471D82F6B68068c8CB41E8c38",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xc395a5e6edb602c471d82f6b68068c8cb41e8c38",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 137
+  },
+  "NFT_NAME": "COINRUSHGO NFT",
+  "SYMBOL": "CRG",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/coinrushgo-v3",
+  "SHOW_BACKGROUND": true
+}
